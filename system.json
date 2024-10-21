@@ -1,14 +1,10 @@
 {
-  "id": "mutants-and-masterminds-3e",
-  "title": "Mutants and Masterminds 3E",
-  "description": "Fiche non officielle Mutants & Masterminds 3E",
+  "id": "mutants-and-masterminds-2e",
+  "title": "Mutants and Masterminds 2E",
+  "description": "Unofficial Mutants & Masterminds 2E system for Foundry VTT",
   "version": "#{VERSION}#",
-  "esmodules": [
-    "module/mm.mjs"
-  ],
-  "styles": [
-    "styles/mm.css"
-  ],
+  "esmodules": ["module/mm.mjs"],
+  "styles": ["styles/mm.css"],
   "languages": [
     {
       "lang": "fr",
@@ -43,9 +39,9 @@
   ],
   "authors": [
     {
-      "name": "Zakarik",
-      "url": "https://fr.tipeee.com/zakarik",
-      "discord": "Zakarik#9006",
+      "name": "iamtimsmith",
+      "url": "https://www.iamtimsmith.com",
+      "discord": "iamtimsmith",
       "flags": {}
     }
   ],
@@ -53,8 +49,8 @@
     "minimum": "11",
     "verified": "12"
   },
-  "gridDistance": 1.5,
-  "gridUnits": "m",
+  "gridDistance": 5,
+  "gridUnits": "ft",
   "primaryTokenAttribute": "blessure",
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",

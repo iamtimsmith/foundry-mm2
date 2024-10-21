@@ -1,14 +1,10 @@
-# Foundry system for Mutants & Masterminds 3E
+# Foundry system for Mutants & Masterminds 2E
 
-This is an unofficial Mutants & Masterminds 3E sheet.
+This is an unofficial Mutants & Masterminds 2E sheet.
 
-If you want to help, contact me on Discord Foundry : Zakarik
+If you want to help, contact me on Discord Foundry : iamtimsmith
 
-This is an unofficial sheet for Mutants & Masterminds 3E.
-
-If you want to help, contact me on Discord-FR of Foundry : https://discord.gg/pPSDNJk
-
-Username : Zakarik
+This is an unofficial sheet for Mutants & Masterminds 2E.
 
 # Credits
 
@@ -25,7 +21,7 @@ Username : Zakarik
 
 # Legal Notices
 
-Mutants & Masterminds 3 is a game by Green Ronin, translated by Black Book Studios.
+Mutants & Masterminds 2 is a game by Green Ronin.
 
 All intellectual property belongs to them, this system is an adaptation intended to work under FoundryVTT.
 
